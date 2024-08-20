@@ -1,6 +1,6 @@
-* Name of the team/Single Participant Name : Samarth Shah 
+* Name of the team/Single Participant Name : Samarth Shah and Darshan Patel 
 
-* Number of Members in a Team : 1
+* Number of Members in a Team : 2
 
 * College : Sardar Patel College of Engineering (Gujarat Technological University)
 
